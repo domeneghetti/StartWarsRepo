@@ -1,0 +1,13 @@
+{
+    "planetas" : [
+        {
+            "nome" : "Alderaan"
+        },
+        {
+            "nome" : "Coruscant"
+        },
+        {
+            "nome" : "Endor"
+        }
+    ]
+}
